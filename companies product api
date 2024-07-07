@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Innovations Inc.",
+        "description": "A leading technology company specializing in consumer electronics.",
+        "image": "https://example.com/images/tech_innovations.png",
+        "products": [
+            {
+                "id": 101,
+                "name": "Smartphone X",
+                "description": "A cutting-edge smartphone with advanced features.",
+                "image": "https://example.com/images/smartphone_x.png"
+            },
+            {
+                "id": 102,
+                "name": "Smartwatch Pro",
+                "description": "A sleek smartwatch with fitness tracking capabilities.",
+                "image": "https://example.com/images/smartwatch_pro.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Home Comforts Ltd.",
+        "description": "Manufacturer of high-quality home appliances.",
+        "image": "https://example.com/images/home_comforts.png",
+        "products": [
+            {
+                "id": 201,
+                "name": "Air Conditioner X200",
+                "description": "An energy-efficient air conditioner with smart controls.",
+                "image": "https://example.com/images/air_conditioner_x200.png"
+            },
+            {
+                "id": 202,
+                "name": "Smart Refrigerator",
+                "description": "A refrigerator with smart features and ample storage.",
+                "image": "https://example.com/images/smart_refrigerator.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Health Plus",
+        "description": "Provider of innovative health and wellness products.",
+        "image": "https://example.com/images/health_plus.png",
+        "products": [
+            {
+                "id": 301,
+                "name": "Fitness Tracker V3",
+                "description": "A versatile fitness tracker with multiple sports modes.",
+                "image": "https://example.com/images/fitness_tracker_v3.png"
+            },
+            {
+                "id": 302,
+                "name": "Smart Scale",
+                "description": "A smart scale that measures weight and body composition.",
+                "image": "https://example.com/images/smart_scale.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Green Energy Solutions",
+        "description": "Pioneer in renewable energy products.",
+        "image": "https://example.com/images/green_energy_solutions.png",
+        "products": [
+            {
+                "id": 401,
+                "name": "Solar Panel XT",
+                "description": "High-efficiency solar panels for residential use.",
+                "image": "https://example.com/images/solar_panel_xt.png"
+            },
+            {
+                "id": 402,
+                "name": "Wind Turbine Home",
+                "description": "A compact wind turbine for home energy generation.",
+                "image": "https://example.com/images/wind_turbine_home.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fashion Forward",
+        "description": "Trendsetting fashion brand known for its stylish apparel.",
+        "image": "https://example.com/images/fashion_forward.png",
+        "products": [
+            {
+                "id": 501,
+                "name": "Summer Dress",
+                "description": "A lightweight, fashionable summer dress.",
+                "image": "https://example.com/images/summer_dress.png"
+            },
+            {
+                "id": 502,
+                "name": "Designer Handbag",
+                "description": "A premium designer handbag made from high-quality materials.",
+                "image": "https://example.com/images/designer_handbag.png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Adventure Gear Co.",
+        "description": "Supplier of outdoor and adventure gear.",
+        "image": "https://example.com/images/adventure_gear_co.png",
+        "products": [
+            {
+                "id": 601,
+                "name": "Mountain Bike X",
+                "description": "A durable mountain bike for off-road adventures.",
+                "image": "https://example.com/images/mountain_bike_x.png"
+            },
+            {
+                "id": 602,
+                "name": "Camping Tent Pro",
+                "description": "A spacious and weather-resistant camping tent.",
+                "image": "https://example.com/images/camping_tent_pro.png"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Gourmet Delights",
+        "description": "Producer of gourmet food products.",
+        "image": "https://example.com/images/gourmet_delights.png",
+        "products": [
+            {
+                "id": 701,
+                "name": "Organic Olive Oil",
+                "description": "Premium organic olive oil with a rich flavor.",
+                "image": "https://example.com/images/organic_olive_oil.png"
+            },
+            {
+                "id": 702,
+                "name": "Artisan Chocolate",
+                "description": "Handcrafted chocolate made from high-quality cocoa.",
+                "image": "https://example.com/images/artisan_chocolate.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Pet Care Experts",
+        "description": "Experts in pet care products and services.",
+        "image": "https://example.com/images/pet_care_experts.png",
+        "products": [
+            {
+                "id": 801,
+                "name": "Smart Pet Feeder",
+                "description": "An automatic pet feeder with smart controls.",
+                "image": "https://example.com/images/smart_pet_feeder.png"
+            },
+            {
+                "id": 802,
+                "name": "Pet Tracker",
+                "description": "A GPS tracker for keeping track of your pets.",
+                "image": "https://example.com/images/pet_tracker.png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Auto Excellence",
+        "description": "Provider of premium automotive products.",
+        "image": "https://example.com/images/auto_excellence.png",
+        "products": [
+            {
+                "id": 901,
+                "name": "Electric Car Model S",
+                "description": "A high-performance electric car with advanced features.",
+                "image": "https://example.com/images/electric_car_model_s.png"
+            },
+            {
+                "id": 902,
+                "name": "Car Audio System",
+                "description": "A top-of-the-line car audio system for superior sound quality.",
+                "image": "https://example.com/images/car_audio_system.png"
+            }
+        ]
+    }
+]
